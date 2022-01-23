@@ -1,2 +1,0 @@
-# FlazyFad
-psets
